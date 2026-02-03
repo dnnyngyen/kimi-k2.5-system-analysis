@@ -112,9 +112,7 @@ flowchart LR
 ```
 ---
 
-## Methodology
-
-Cleanroom extraction through the agent's own tools. No authentication was bypassed. No binaries were decompiled. See [methodology.md](methodology.md) for details.
+**Methodology:** Cleanroom extraction through the agent's own tools. No authentication was bypassed. No binaries were decompiled. See [methodology.md](methodology.md) for details.
 
 ---
 
