@@ -74,6 +74,7 @@ flowchart LR
 ## Repository Structure
 
 ```
+
 ├── .kimi/
 │   ├── app/
 │   │   ├── scripts/             # Python source files (browser_guard.py, etc.)
