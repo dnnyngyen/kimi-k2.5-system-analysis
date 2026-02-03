@@ -1,4 +1,4 @@
-# Kimi K2.5:A Case Study on Skill-Based Architecture
+# Kimi K2.5: A Case Study on Skill-Based Architecture
 
 
 **Abstract:**
