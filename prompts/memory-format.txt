@@ -1,3 +1,8 @@
+# NOTICE: This file was provided by the Kimi agent in response to
+# plain-English questions. The repository maintainer does not claim
+# copyright. Included for research purposes under CC0 1.0.
+# See ../LICENSE for details.
+
 // Side note: This is a sanitized template of the Recent Conversation Content section.
 // This section contains the user's actual chat history across all conversations.
 // The content below shows the structural format only, with placeholder examples.

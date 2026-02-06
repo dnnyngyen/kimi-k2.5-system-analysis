@@ -1,3 +1,7 @@
+> **Original analysis by the repository maintainer, licensed under CC BY 4.0.**
+> Code snippets shown below are excerpted from extracted source code for
+> commentary and criticism purposes.
+
 # Container Infrastructure
 
 Kimi runs in a containerized environment with four distinct layers. Understanding this architecture explains how the agent executes code, automates browsers, and manages files.

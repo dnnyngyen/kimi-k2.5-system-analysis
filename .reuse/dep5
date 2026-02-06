@@ -1,6 +1,8 @@
 Format: https://www.reuse.software/spec/3.3/
 
-Files: prompts/*.md prompts/*.txt
+Files: prompts/base-chat.md prompts/ok-computer.md prompts/docs.md
+       prompts/sheets.md prompts/websites.md prompts/slides.md
+       prompts/memory-format.txt
 Copyright: Beijing Moonshot Technology Co., Ltd.
 License: CC0-1.0
 Comment: Extracted material. Maintainer waives any incidental rights.

@@ -1,3 +1,6 @@
+> **Original documentation by the repository maintainer, licensed under CC BY 4.0.**
+> Extracted system prompt text is in the individual prompt files, licensed under CC0 1.0.
+
 # System Prompts
 
 This directory contains the system prompts for all 6 Kimi K2.5 agent types.

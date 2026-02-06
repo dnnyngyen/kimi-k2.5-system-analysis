@@ -2,7 +2,7 @@
 
 [![License: Mixed](https://img.shields.io/badge/License-CC0%20%2B%20CC%20BY%204.0-blue)](LICENSE)
 [![Type: Research](https://img.shields.io/badge/Type-Research-0366d6)](https://github.com/dnnyngyen/kimi-agent-internals)
-[![Method](https://img.shields.io/badge/Method-Open%20Analysis-0969da)](https://github.com/dnnyngyen/kimi-agent-internals)
+[![Method: Conversational Extraction](https://img.shields.io/badge/Method-Conversational%20Extraction-green)](METHODOLOGY.md)
 [![Repo Size](https://img.shields.io/github/repo-size/dnnyngyen/kimi-agent-internals?label=size&color=58a6ff)](https://github.com/dnnyngyen/kimi-agent-internals)
 [![Last Commit](https://img.shields.io/github/last-commit/dnnyngyen/kimi-agent-internals?color=79c0ff)](https://github.com/dnnyngyen/kimi-agent-internals/commits/main)
 
@@ -39,7 +39,7 @@ kimi-agent-internals/
 ├── README.md                 # Main entry point
 ├── GLOSSARY.md               # Terms and definitions
 ├── METHODOLOGY.md            # How the analysis was conducted
-├── LICENSE                   # CC BY 4.0
+├── LICENSE                   # Mixed: CC0 + CC BY 4.0 + Apache 2.0
 │
 ├── analysis/                 # Research findings and insights
 │   ├── README.md
