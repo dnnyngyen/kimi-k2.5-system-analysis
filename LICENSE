@@ -39,12 +39,12 @@ Applies to:
   tools/*.json          (tool schemas provided by agent)
   tools/base-chat/      (tool documentation provided by agent)
   tools/ok-computer/    (tool documentation provided by agent)
-  source-code-sample/browser_guard.py    (Moonshot source code)
-  source-code-sample/jupyter_kernel.py   (Moonshot source code)
-  source-code-sample/kernel_server.py    (Moonshot source code)
-  source-code-sample/utils.py            (Moonshot source code)
-  source-code-sample/etc/                (configuration files)
-  source-code-sample/skills/             (skill definitions)
+  source-code/browser_guard.py    (Moonshot source code)
+  source-code/jupyter_kernel.py   (Moonshot source code)
+  source-code/kernel_server.py    (Moonshot source code)
+  source-code/utils.py            (Moonshot source code)
+  source-code/etc/                (configuration files)
+  source-code/skills/             (skill definitions)
 
 To the extent possible under law, the maintainer of this repository has
 waived all copyright and related or neighboring rights to the
@@ -70,7 +70,7 @@ Applies to:
   GLOSSARY.md
   analysis/             (all files — original research and commentary)
   deep-dives/           (all files — original technical analysis)
-  source-code-sample/README.md   (documentation only)
+  source-code/README.md   (documentation only)
   tools/README.md                (documentation only)
   prompts/README.md              (documentation only)
 
@@ -88,7 +88,7 @@ Full text: https://creativecommons.org/licenses/by/4.0/legalcode
 SECTION 3 — THIRD-PARTY COMPONENTS
 ==========================================================================
 
-source-code-sample/pdf-viewer/
+source-code/pdf-viewer/
   Contains Mozilla PDF.js, an open-source PDF rendering library.
   PDF.js is licensed under the Apache License 2.0.
   Copyright: Mozilla Foundation and PDF.js contributors.

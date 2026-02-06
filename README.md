@@ -81,7 +81,7 @@ kimi-agent-internals/
 │       ├── webapp/analysis.md
 │       └── xlsx/analysis.md
 │
-├── source-code-sample/       # Extracted source from Kimi system
+├── source-code/       # Extracted source from Kimi system
 │   ├── README.md
 │   ├── browser_guard.py      # 41KB - Browser automation
 │   ├── jupyter_kernel.py     # 17KB - Code execution
@@ -121,14 +121,14 @@ kimi-agent-internals/
 | Understand the architecture | [`analysis/how-kimi-works.md`](analysis/how-kimi-works.md) |
 | Learn the terminology | [`GLOSSARY.md`](GLOSSARY.md) |
 | Compare agent types | [`prompts/base-chat.md`](prompts/base-chat.md) vs [`prompts/ok-computer.md`](prompts/ok-computer.md) |
-| See a skill definition | [`source-code-sample/skills/docx/SKILL.md`](source-code-sample/skills/docx/SKILL.md) |
+| See a skill definition | [`source-code/skills/docx/SKILL.md`](source-code/skills/docx/SKILL.md) |
 | Explore technical details | [`deep-dives/README.md`](deep-dives/README.md) |
 
 ---
 
 ## What This Repository Contains
 
-System prompts for six agent types: Base Chat, OK Computer, Docs, Sheets, Slides, and Websites. Skill definitions for DOCX, XLSX, PDF, and WebApp output formats. Tool schemas documenting 38 distinct tools. [Source code samples](source-code-sample/) for the runtime environment. Technical analysis of the architecture, security model, and design patterns.
+System prompts for six agent types: Base Chat, OK Computer, Docs, Sheets, Slides, and Websites. Skill definitions for DOCX, XLSX, PDF, and WebApp output formats. Tool schemas documenting 38 distinct tools. [Source code](source-code/) for the runtime environment. Technical analysis of the architecture, security model, and design patterns.
 
 ---
 

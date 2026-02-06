@@ -1,4 +1,4 @@
-# Source Code Sample
+# Source Code
 
 > **Extracted material — not authored by this repository's maintainer.**
 > These files were provided by the Kimi agent in response to plain-English
@@ -23,7 +23,7 @@ Extracted Python runtime code for the Kimi K2.5 agent environment.
 ## File Structure
 
 ```
-source-code-sample/
+source-code/
 ├── README.md              # This file
 ├── browser_guard.py       # 41KB - Browser automation
 ├── jupyter_kernel.py      # 17KB - Code execution

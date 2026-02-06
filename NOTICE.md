@@ -4,7 +4,7 @@
 
 This repository uses three licenses for three categories of material:
 
-**Extracted material** (system prompts, tool schemas, source code samples,
+**Extracted material** (system prompts, tool schemas, source code,
 config files, skill definitions) is released under **CC0 1.0 Universal**.
 The maintainer does not claim copyright over material authored by
 Moonshot AI. CC0 waives any incidental rights the maintainer may hold

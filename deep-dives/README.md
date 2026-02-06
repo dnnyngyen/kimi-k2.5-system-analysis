@@ -84,6 +84,6 @@ For the skill system and agent behavior, see [`../analysis/skills/README.md`](..
 
 ## Related Documentation
 
-- [`../source-code-sample/README.md`](../source-code-sample/README.md) - Python source files analyzed in these deep dives
+- [`../source-code/README.md`](../source-code/README.md) - Python source files analyzed in these deep dives
 - [`../analysis/skills/README.md`](../analysis/skills/README.md) - Skill system documentation
 - [`../analysis/how-kimi-works.md`](../analysis/how-kimi-works.md) - Architectural overview

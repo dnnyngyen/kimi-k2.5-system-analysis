@@ -12,23 +12,23 @@ Copyright: Beijing Moonshot Technology Co., Ltd.
 License: CC0-1.0
 Comment: Extracted material. Maintainer waives any incidental rights.
 
-Files: source-code-sample/browser_guard.py
-       source-code-sample/jupyter_kernel.py
-       source-code-sample/kernel_server.py
-       source-code-sample/utils.py
-       source-code-sample/etc/*
-       source-code-sample/skills/*
+Files: source-code/browser_guard.py
+       source-code/jupyter_kernel.py
+       source-code/kernel_server.py
+       source-code/utils.py
+       source-code/etc/*
+       source-code/skills/*
 Copyright: Beijing Moonshot Technology Co., Ltd.
 License: CC0-1.0
 Comment: Extracted material. Maintainer waives any incidental rights.
 
-Files: source-code-sample/pdf-viewer/*
+Files: source-code/pdf-viewer/*
 Copyright: Mozilla Foundation and PDF.js contributors
 License: Apache-2.0
 
 Files: README.md METHODOLOGY.md GLOSSARY.md NOTICE.md
        analysis/* deep-dives/*
-       source-code-sample/README.md
+       source-code/README.md
        tools/README.md prompts/README.md
 Copyright: 2026 Danny Nguyen
 License: CC-BY-4.0
