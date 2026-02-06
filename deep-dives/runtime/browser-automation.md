@@ -13,7 +13,7 @@ Why have both? Playwright is convenient but abstracts away browser internals. Wh
 The trade-off is complexity. Maintaining two implementations means more code, more potential inconsistencies, and more surface area for bugs. But for an agent that needs reliable browser automation across varied conditions, the redundancy is probably worth it.
 
 ```mermaid
-stateDiagram-v2
+stateDiagram
     [*] --> Init: Launch browser_guard.py
     
     state Init {
